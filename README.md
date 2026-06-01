@@ -28,6 +28,7 @@ Simply run the Python script
 Running the script will generate two types of output:
 1. **Terminal Output:** The calculated Mean and Standard Deviation of the threshold voltage for 100,000 Monte Carlo samples.
 2. **Graphical Output:** A histogram plot showing the Probability Density Function (PDF) of the threshold voltage distribution.
+
 ![VT Distribution Histogram](Figure.png)
 ## Nominal Parameters
 - Nominal Threshold Voltage ($V_{T0}$): 0.40 V
